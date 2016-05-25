@@ -7,7 +7,11 @@ This is just a smaple shopping cart for getting started with React Js, React Rou
 - Be sure you have [Meteor installed](https://www.meteor.com/install)
 - Clone this repo
 - Cd into the repo/app
-- Install npm packages: ```meteor npm install```
+- Install npm packages: ```npm install```
 - Run the app by typing ```meteor```
 
 
+## Requirements
+
+- Meteor 1.3 +
+- React JS 15+
