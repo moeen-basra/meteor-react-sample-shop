@@ -6,7 +6,7 @@ This is just a smaple shopping cart for getting started with React Js, React Rou
 ## Instructions
 - Be sure you have [Meteor installed](https://www.meteor.com/install)
 - Clone this repo
-- Cd into the repo
+- Cd into the repo/app
 - Install npm packages: ```meteor npm install```
 - Run the app by typing ```meteor```
 
